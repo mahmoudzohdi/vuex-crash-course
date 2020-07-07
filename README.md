@@ -1,4 +1,4 @@
-# vuex-crash-course-example
+# Vuex Crash Course example
 This is an example app for [Vuex crash course](https://youtu.be/eAVpatYneoU)
 
 
