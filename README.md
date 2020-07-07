@@ -1,4 +1,6 @@
-# vuex-example
+# vuex-crash-course-example
+This is an example app for [Vuex crash course](https://youtu.be/eAVpatYneoU)
+
 
 ## Project setup
 ```
